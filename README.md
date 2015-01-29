@@ -1,7 +1,7 @@
 public
 ======
 
-Publicly viewable code for my robotics projects at alexhagiopol.com.
+Code for my robotics projects at alexhagiopol.com.
 
 This repository contains the soruce code for my robotics portfolio. Projects included:
 
