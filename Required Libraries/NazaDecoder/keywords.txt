@@ -1,0 +1,30 @@
+NazaDecoderLib	KEYWORD1
+NazaDecoder	KEYWORD1
+
+decode	KEYWORD2
+getLat	KEYWORD2
+getLon	KEYWORD2
+getGpsAlt	KEYWORD2
+getSpeed	KEYWORD2
+getNumSat	KEYWORD2
+getFixType	KEYWORD2
+getHeadingNc	KEYWORD2
+getCog	KEYWORD2
+getGpsVsi	KEYWORD2
+getHdop	KEYWORD2
+getVdop	KEYWORD2
+getPitch	KEYWORD2
+getRoll	KEYWORD2
+getYear	KEYWORD2
+getMonth	KEYWORD2
+getDay	KEYWORD2
+getHour	KEYWORD2
+getMinute	KEYWORD2
+getSecond	KEYWORD2
+
+decodeLong	KEYWORD2
+decodeShort	KEYWORD2
+updateCS	KEYWORD2
+startPwmReader	KEYWORD2
+pwmInterruptHandler	KEYWORD2
+pwm2Deg	KEYWORD2

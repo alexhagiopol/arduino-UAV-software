@@ -1,0 +1,27 @@
+NazaDecoder library changelog
+------------------------------
+Version 20140628
+  [NEW] added Vertical Speed Indicator (a.k.a. climb speed) and vdop
+  [NEW] speed is now reported in m/s instead of knots
+  [FIX] Corrected decoding of day number (note that for time between 16:00 and 23:59 the hour returned from GPS module is actually 00:00 - 7:59).
+  [NEW] aligned function names with NazaCanDecoder library (getAlt -> getGpsAlt, getVsi -> getGpsVsi, getHeading ->getHeadingNc) and updated the examples
+
+Version 20140123
+  [NEW] added in-flight compass calibration. Do a full 360 degrees yaw while flying to calculate the calibration data.
+
+Version 20140118
+  [NEW] added date and time
+  [FIX] corrected decoding of compass heading
+
+Version 20131230
+  [NEW] added checksum checking to reject invalid data from GPS
+  [NEW] added course over ground and hdop
+  [NEW] added DGPS fix and fix type enum
+  [FIX] removed unused motorsArmed method from header
+  [FIX] corrected keywords file
+
+Version 20131010
+  [FIX] corrected decoding of the fix type field (was not XORed with mask)
+
+Version 20131009
+  initial version of the library

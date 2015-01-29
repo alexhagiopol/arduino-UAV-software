@@ -9,6 +9,6 @@ Arduino Quadcopter: I built an Arduino-based quadcopter and handheld controller.
 
 Arduino Rover for Mapping: I built an Arduino-based rover that records the locations of obstacles. This project was my attempt to implement very crude simultaneous localization and mapping (SLAM). An introduction to the rover project is at http://alexhagiopol.com/2014/02/04/robotic-cartography-project-introduction/.
 
-Kalman Filter for Quadrotor GPS: My team and I made a Kalman Filter based estimation scheme for quadrotors equipped with GPS receivers. We implemented a Kalman Filter in MATLAB and in Arduino. The Arduino implementation is compatible with the Arduino Quadcopter from above. I;m currently working on a blog post to explain this project further; please check back soon.
+Kalman Filter for Quadrotor GPS: My team and I made a Kalman Filter based estimation scheme for quadrotors equipped with GPS receivers. We implemented a Kalman Filter in MATLAB and in Arduino. The Arduino implementation is compatible with the Arduino Quadcopter from above.
 
 
