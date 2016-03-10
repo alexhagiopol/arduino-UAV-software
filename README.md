@@ -1,9 +1,7 @@
-public
+Quadcopter Software Repository
 ======
 
-Code for my robotics projects at alexhagiopol.com.
-
-This repository contains the soruce code for my robotics portfolio. Projects included:
+Here you can find relevant Arduino and MATLAB code for the custom Arduino quadcopter projects on alexhagiopol.com. The individual projects and writeups are linked below with further instructions on how to use the code for your own Arduino UAVs.
 
 Arduino Quadcopter: I built an Arduino-based quadcopter and handheld controller. An introduction to this project is at http://alexhagiopol.com/2014/06/13/arduino-quadcopter-2-preview/. The code files associated with this project are Quadcopter Transmitter and Quadcopter Receiver.
 
