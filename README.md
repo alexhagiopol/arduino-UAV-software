@@ -5,7 +5,7 @@ Here you can find relevant Arduino and MATLAB code for the custom Arduino quadco
 ![build_photo](https://alexhagiopol.files.wordpress.com/2014/09/quadcopter-splash-page.jpg)
 
 ### Live Flight Demo
-![video_thumbnail](https://www.youtube.com/watch?v=WuHXO8XvEYg)
+[![demo](figures/video_thumbnail.png)](https://www.youtube.com/watch?v=WuHXO8XvEYg#t=0s "Quadrotor Demo")
 
 ### Details
 #### Arduino Quadcopter Firmware: 
@@ -22,9 +22,6 @@ A detailed description of this project is at http://alexhagiopol.com/2014/02/04/
 A Kalman Filter based estimation scheme for quadrotors equipped with GPS receivers. 
 Prototyped in MATLAB. Implemented and tested in Arduino on live quadrotor hardware. 
 The Arduino implementation is compatible with the Arduino Quadcopter system from above.
-The directories associated with this project are `Kalman Filter for Quadrotor GPS` and `Required Libraries`. A detailed description of this project is at https://alexhagiopol.com/portfolio/arduino-quadcopter-2-0-kalman-filter-location-estimation/. 
-A brief description is in the research poster below:
-
-![poster](https://alexhagiopol.files.wordpress.com/2014/11/kalman-filter-poster.png)
-
-
+The directories associated with this project are `Kalman Filter for Quadrotor GPS` and `Required Libraries`. 
+A detailed description of this project is at https://alexhagiopol.com/portfolio/arduino-quadcopter-2-0-kalman-filter-location-estimation/. 
+A brief description is in this [research poster](https://alexhagiopol.files.wordpress.com/2014/11/kalman-filter-poster.png).
