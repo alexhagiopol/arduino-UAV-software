@@ -24,4 +24,6 @@ Prototyped in MATLAB. Implemented and tested in Arduino on live quadrotor hardwa
 The Arduino implementation is compatible with the Arduino Quadcopter system from above.
 The directories associated with this project are `Kalman Filter for Quadrotor GPS` and `Required Libraries`. 
 A detailed description of this project is at https://alexhagiopol.com/portfolio/arduino-quadcopter-2-0-kalman-filter-location-estimation/. 
-A brief description is in this [research poster](https://alexhagiopol.files.wordpress.com/2014/11/kalman-filter-poster.png).
+A brief description is in this research poster:
+
+![poster](figures/kalman-filter-poster.png)
